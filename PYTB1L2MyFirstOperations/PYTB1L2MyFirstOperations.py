@@ -28,7 +28,7 @@ print ("--------------------------------------------")
 #optellen van + en =
 Ninumber = Nnumber + Number
 print ("45 + 45 =")
-print ( Nnumber )
+print ( Ninumber )
 print ("--------------------------------------------")
 
 # nieuwe variabele =
