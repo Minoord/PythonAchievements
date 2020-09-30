@@ -31,6 +31,11 @@ print ("45 + 45 =")
 print ( Ninumber )
 print ("--------------------------------------------")
 
+Ninumber += 5
+print (" 90 + 5 =")
+print (Ninumber)
+print ("--------------------------------------------")
+       
 # nieuwe variabele =
 Number= 50
 print ("Number = ")
@@ -45,6 +50,11 @@ print ("--------------------------------------------")
 Num = Getal / Number
 print ("150 / 50 =")
 print ( Num )
+print ("--------------------------------------------")
+
+Num /= 2
+print (" 0,3 / 2 =")
+print (Num)
 print ("--------------------------------------------")
 
 restWaarde = Getal % 4
